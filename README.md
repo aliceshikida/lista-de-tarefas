@@ -1,2 +1,3 @@
 # lista-de-tarefas
-sitezinho q loga e cadastra so p treinar api :))
+sitezinho q loga e cadastra para acesso a uma lista de tarefas.
+so p treinar api :))
